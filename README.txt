@@ -1,11 +1,4 @@
-Το πρόγραμμα που έχω υλοποιήσει λειτουργεί σαν μία μηχανή αναζήτησης.
+The algorithm finds the tweets base on user's keywords (could be more than one).
 
-Δεδομένο δηλαδή το περιεχόμενο των όρων αναζήτησης (keywords), ο αλγόριθμος
-εντοπίζει τα tweets τα οποία περιέχουν τα keywords που έδωσε ο χρήστης (σημειώνεται
-ότι αυτά μπορέι να είναι περισσότερα από ένα). Έτσι ο χρήστης λαμβάνει το πιο έγκυρο/α 
-δηλαδή όμοιο tweet.
+In the second functionality user must type a number between 0-1999. This number is the tweet number. The algorithm finds the tweets that contains words like those that user gave 
 
-Σχετικά με τη δέυτερη λειτουργία, ο χρήστης καλείται να πληκτρολογήσει τον αριθμό του
-tweet (0-1999) για το οποίο θέλει να βρει όμοιό του. Ο αλγόριθμος εντοπίζει το/τα tweets
-που περιέχουν όσο περισσότερες όμοιες λέξεις με αυτό που έχει ζητήσει ο χρήστης και αυτά 
-είναι τα πιο όμοια tweets.
